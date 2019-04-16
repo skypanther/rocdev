@@ -56,6 +56,7 @@ else:
 INSTALLED_APPS = [
     'about.apps.AboutConfig',
     'events.apps.EventsConfig',
+    'coworking.apps.CoworkingConfig',
     'bootstrap4',
     'django.contrib.admin',
     'django.contrib.auth',
